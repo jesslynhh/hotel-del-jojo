@@ -1,5 +1,6 @@
 # Hotel del Jojo
 Selamat datang di _Hotel del Jojo!_
+
 Berikut adalah harga dari kamar-kamar yang kami punya:
 |   | Tipe kamar | Harga       |
 |---|------------|-------------|
